@@ -3,9 +3,9 @@
     "short_name": "bybug",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#161616",
+    "theme_color": "#161616",
+    "description": "ByBug, birkaç yıl önce bir fikir ile hayata geçen, tamamı bağımsız freelancer üyelerden oluşan bir proje geliştirme grubudur. Başta Telegram olmak üzere YouTube, Instagram ve Github gibi platformlarda ücretli/ücretsiz hizmet veren ByBug, hayal yaratıcısı olan JeaFriday tarafından yönetilmektedir.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
